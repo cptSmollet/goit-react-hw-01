@@ -1,0 +1,19 @@
+.friend {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
+
+.name {
+  font-weight: 400;
+  color: black;
+  text-align: center;
+}
